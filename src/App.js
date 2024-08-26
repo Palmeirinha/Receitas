@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import HomePage from './HomePage';
 import ReceitaDetalhes from './ReceitaDetalhes';
 import AdicionarReceita from './AdicionarReceita';
-import './App.css';  // Importando os estilos globais
+import './App.css';  
 
 const App = () => {
   return (
